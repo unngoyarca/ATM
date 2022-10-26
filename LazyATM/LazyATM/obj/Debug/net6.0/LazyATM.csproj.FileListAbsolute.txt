@@ -1,0 +1,15 @@
+D:\GetAka\LazyATM\LazyATM\bin\Debug\net6.0\LazyATM.exe
+D:\GetAka\LazyATM\LazyATM\bin\Debug\net6.0\LazyATM.deps.json
+D:\GetAka\LazyATM\LazyATM\bin\Debug\net6.0\LazyATM.runtimeconfig.json
+D:\GetAka\LazyATM\LazyATM\bin\Debug\net6.0\LazyATM.dll
+D:\GetAka\LazyATM\LazyATM\bin\Debug\net6.0\LazyATM.pdb
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.csproj.AssemblyReference.cache
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.AssemblyInfoInputs.cache
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.AssemblyInfo.cs
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.csproj.CoreCompileInputs.cache
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.dll
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\refint\LazyATM.dll
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.pdb
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\LazyATM.genruntimeconfig.cache
+D:\GetAka\LazyATM\LazyATM\obj\Debug\net6.0\ref\LazyATM.dll
